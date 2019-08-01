@@ -17,3 +17,7 @@ This also include a default set of rules that configure most of Altium pcb funct
 Fork, open a pull request. 
 Please write the rules in the format MANUFACTURER_name.RUL
 You do not need to use git, you can simply use the GitHub interface to upload the files.
+
+# Why this exist
+
+I made this after spending half an hour trying to fix some other dude shitwork
